@@ -86,6 +86,11 @@ Want to collaborate or improve this project?
 5. Open a Pull Request
 
 ---
+## 📄 License
+
+This work is licensed under the [MIT License](LICENSE).
+
+---
 
 🧠 *"AI isn’t just the future — it’s the present. Begin your journey one concept at a time."*
 
