@@ -82,6 +82,77 @@ The **AI-900 certification** is an excellent entry point for students, beginners
 This work is licensed under the [MIT License](LICENSE).
 
 ---
+# Microsoft AI-900 Exam Registration Guide
+
+This README provides a complete step-by-step guide to help you register for the **Microsoft Azure AI Fundamentals Certification (AI-900)** exam.
+
+## 📌 Overview
+
+**Exam Name**: Microsoft Certified: Azure AI Fundamentals  
+**Exam Code**: AI-900  
+**Target Audience**: Beginners interested in Artificial Intelligence (AI), Cloud, and Azure services.
+
+---
+
+## 🧭 Registration Flow
+
+### 1. **Create or Sign in to a Microsoft Account**
+- Visit [https://learn.microsoft.com](https://learn.microsoft.com/)
+- Sign in using a Microsoft account. If you don’t have one, create a new account.
+
+### 2. **Navigate to the AI-900 Certification Page**
+- Go to: [https://learn.microsoft.com/en-us/certifications/ai-fundamentals/](https://learn.microsoft.com/en-us/certifications/ai-fundamentals/)
+- Click on the **“Schedule exam”** button.
+
+### 3. **Select the Exam Delivery Option**
+You’ll be redirected to **Pearson VUE**:
+- Choose **"At a local test center"** or **"Online from home or office"**
+- Confirm the country/region for pricing
+
+### 4. **Sign in to Pearson VUE**
+- You’ll be redirected to [https://home.pearsonvue.com](https://home.pearsonvue.com/)
+- Sign in with your Microsoft account if prompted
+
+### 5. **Provide Candidate Details**
+- Fill in your personal information (name, phone number, email, etc.)
+- Ensure your name matches your government-issued ID
+
+### 6. **Select Date and Time**
+- View the calendar and choose a preferred date and time slot for your exam
+
+### 7. **Review and Confirm Details**
+- Double-check your personal and exam information
+- Confirm delivery option (online or in-person)
+
+### 8. **Make Payment**
+- Use a credit/debit card to complete the payment. If you have any coupons for your exams you can use for registering the exam.
+
+### 9. **Receive Confirmation Email**
+- You will receive an email with exam details and instructions
+- For online exams: check system requirements and perform a system test
+
+---
+
+## 🎓 Preparation Resources
+
+| Resource | Link |
+|---------|------|
+| Microsoft Learn | [AI-900 Learning Path](https://learn.microsoft.com/en-us/training/paths/get-started-ai-fundamentals/) |
+| Practice Assessment | [Microsoft Sample Questions](https://learn.microsoft.com/en-us/certifications/resources/study-guides/ai-900/) |
+| Exam Skills Outline | [Download PDF](https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4VwUY) |
+
+---
+
+## 📎 Additional Notes
+- Ensure stable internet for online exams if you are attending the exam in your personal area. My opinion is take your exam in Pearson Vue centers in order to avoid any technical glitch that may occur.
+- Be ready 30 minutes before the exam slot
+- Valid photo ID is mandatory
+- Use a quiet, well-lit room for online exams
+
+---
+
+
+
 
 🧠 *"AI isn’t just the future — it’s the present. Begin your journey one concept at a time."*
 
