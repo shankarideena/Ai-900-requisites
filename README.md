@@ -4,7 +4,7 @@
 
 # 🎓 AI-900: Microsoft Azure AI Fundamentals – Learning & Practice Repository
 
-This repository is a comprehensive collection of learning resources, hands-on project demos, practice assessments, and notes created while preparing for and successfully clearing the **AI-900: Microsoft Azure AI Fundamentals** certification exam.
+This repository is a comprehensive collection of learning resources,  practice assessments, and notes created while preparing for and successfully clearing the **AI-900: Microsoft Azure AI Fundamentals** certification exam.
 
 ---
 
