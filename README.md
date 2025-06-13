@@ -139,7 +139,7 @@ You’ll be redirected to **Pearson VUE**:
 |---------|------|
 | Microsoft Learn | [AI-900 Learning Path](https://learn.microsoft.com/en-us/training/paths/get-started-ai-fundamentals/) |
 | Practice Assessment | [Microsoft Sample Questions](https://learn.microsoft.com/en-us/certifications/resources/study-guides/ai-900/) |
-| Exam Skills Outline | [Download PDF](https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4VwUY) |
+
 
 ---
 
